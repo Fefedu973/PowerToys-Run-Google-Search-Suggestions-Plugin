@@ -12,7 +12,7 @@
 
 ---
 
-## ⚠️ THIS EXTENSION IS PLANNED TO BE PORTED TO THE NEW WINDOWS COMMAND PALETTE IN THE COMING WEEKS, I WILL STILL SUPPORT BOTH VERSIONS
+## YOU CAN FIND THE NEW MANTAINED VERSION FOR THE COMMAND PALETTE HERE: https://github.com/Fefedu973/UniversalSearchSuggestions
 
 [<p align="center">]()This is a simple [PowerToys Run](https://docs.microsoft.com/en-us/windows/powertoys/run) plugin that adds search suggestions when searching something.
 
